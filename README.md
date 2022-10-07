@@ -12,4 +12,5 @@ Guides and explanations are added in "readme.txt" files under each folder.
 
 
 Note: The midterm practice test will be available after Sunday.
+
 The following sessions' practices will be added when the week ends.  
