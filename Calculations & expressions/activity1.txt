@@ -1,0 +1,1 @@
+Write a code to match the output shared the "activity1.jpeg" file in the "Outputs" folder.

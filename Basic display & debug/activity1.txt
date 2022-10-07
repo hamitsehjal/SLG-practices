@@ -1,0 +1,12 @@
+//Author: Tarik Ozturk
+
+// Try to fix the bugs in the below code. 
+
+include stdio.h
+
+main() {
+    printf(Hello everyone, welcome to the SLG session)
+
+    
+}
+

@@ -1,0 +1,10 @@
+// Author: Tarik Ozturk
+
+// Write the code to match the below output.
+
+Hi everyone,
+
+We are "breakout" room #[REPLACE WITH YOUR BREAKOUT ROOM NUMBER HERE],
+Our members are: [MEMBER-1 NAME] <TAB> [MEMBER-2 NAME] <TAB>...
+
+Have a great term!
