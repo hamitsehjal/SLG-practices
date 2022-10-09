@@ -1,6 +1,6 @@
 # Midterm Practice Questions
 
-## Important Note: These questions are prepared based on my experience, they may not similar to your real test. This document is only for practice purposes.
+## Important Note: These questions are prepared based on my experience, they may not be similar to your real test. This document is only for practice purposes.
 
 ### The practice questions are available:
 
