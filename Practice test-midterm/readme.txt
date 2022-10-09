@@ -1,1 +1,0 @@
-The practice test will be available after Sunday.
