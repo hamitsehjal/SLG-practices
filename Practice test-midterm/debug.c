@@ -36,15 +36,3 @@ int main(void) {
    
     return 0;
 }
-
-/*
-1-> 14. size should be + 1 -> 17
-2-> 18. array declaration [] -> {}
-3-> 20. for loop declaration
-4-> 21. %c -> %s
-5-> 22. %lf 
-6-> 22. scanf &
-7-> 26. for loop declaration
-8-> 27. %c -> %s
-9-> 27. %d -> %.2lf
-*/
