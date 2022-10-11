@@ -15,19 +15,6 @@
 
 */
 
-/*
-Walkthrough Question:
-This tests your ability to read (walk) through a piece of code and write out what is happening at each step in the code.
-Please explain the step-by-step order of operation and output of the code
-
-Assume user enters the following inputs in order:
--> 12.5
--> 9.8
--> 6.7
--> 13.4
--> 40
-*/
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main(void) {
