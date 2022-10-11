@@ -20,7 +20,7 @@ c. Move i over 2 spaces.
 d. Double the value stored in i
 
 3) Consider the following expression: basketball!= tennis && basketball != football; 
-    Apply deMorgan’s law to determine which of the following expressions is logically identical? 
+    Apply deMorganâ€™s law to determine which of the following expressions is logically identical? 
 a. football != tennis  && football != basketball; 
 b. basketball =! tennis && basketball =! football; 
 c. basketball == (!tennis && football); 
@@ -60,7 +60,7 @@ d. enclosing one logic construct within another
 
 7) What is an array?
 a. a collection of different types
-b. a list of variables of the same time
+b. a list of variables of the same types
 c. both a & b
 d. none of above
 
