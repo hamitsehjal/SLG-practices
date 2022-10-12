@@ -21,7 +21,7 @@ int main(void) {
     double prices[4];
     double discount;
 
-    for (int i = 0; i < (sizeof(prices) / sizeof(prices[0])); i++) {
+    for (int i = 0; i < 4; i++) {
         printf("Please enter the price of %d. item: $", i + 1);
         scanf("%lf", &prices[i]);
     }
@@ -34,7 +34,7 @@ int main(void) {
     discount /= 100.0;
     
 
-    for (int i = 0; i < (sizeof(prices) / sizeof(prices[0])); i++) {
+    for (int i = 0; i < 4; i++) {
         printf("The price of %d. item after discount :$%.2lf \n", i + 1, prices[i] * (1-discount));
     }
     return 0;
