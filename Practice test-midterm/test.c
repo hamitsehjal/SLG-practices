@@ -67,8 +67,8 @@ d. none of above
 8) What is the value that is returned (yielded) by the following expression: 9 == 13
 a. 4
 b. 1
-d. 0
 c. 21
+d. 0
 
 9) What is the output of the below code?
 int main(void)
