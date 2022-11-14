@@ -1,0 +1,26 @@
+/**********************
+* AUTHOR: Tarik Ozturk
+* Date: 2022/11/13
+* *********************/
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+struct Employee {
+    int employeeId;
+    int departmentId;
+};
+
+void changeDepartmentId(Employee emp) {
+    printf("enter new id: ");
+    scanf("%d", emp.departmentId);
+};
+
+int main()
+{
+    struct Employee employee = { 111, 850 };
+
+    printf("employee id: %d, department id: %d\n", employee.employeeId, employee.departmentId);
+    changeDepartmentId(employee);
+    printf("employee id: %d, department id: %d\n", employee.employeeId, employee.departmentId);
+
+    return 0;
+}
