@@ -14,6 +14,7 @@ Guides and explanations are added in "readme.txt" files under each folder.
 5. Midterm Practice
 6. Array
 7. Struct
+8. Functions & pointers
 
 
 The following sessions' practices will be added when the week ends.  
