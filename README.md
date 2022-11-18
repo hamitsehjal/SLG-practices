@@ -15,6 +15,7 @@ Guides and explanations are added in "readme.txt" files under each folder.
 6. Array
 7. Struct
 8. Functions & pointers
+9. fuction-array-struct
 
 
 The following sessions' practices will be added when the week ends.  
