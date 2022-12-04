@@ -1,5 +1,7 @@
 # Final Practice Test
 
+Note: This test is only for practice purposes and it is prepared based on experience and your feedbacks 
+
 ## 1) Conceptual Questions
 Read questions and give short answers, give example when necessary.
 
